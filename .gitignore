@@ -1,0 +1,11 @@
+# Emergent platform runtime (third-party analytics / session recorder)
+ap.emergent.sh/
+assets.emergent.sh/
+__emergent_overlay__/
+static.cloudflareinsights.com/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
